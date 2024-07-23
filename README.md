@@ -16,9 +16,6 @@ https://www.kaggle.com/emmarex/plantdisease
 - Severe defoliation can occur and result in sunscald on the fruit.  
 - Early blight is common in both field and high tunnel tomato production in Minnesota.
 
-![](https://content.ces.ncsu.edu/media/images/IMG_1301.JPG)
-
-(Source credit :  NC State Extension Publications - NC State University)
 
 -----------------------------------------------------------------------------------------------------------------
 #### 🍂  Late Blight 🍂 
@@ -27,9 +24,6 @@ https://www.kaggle.com/emmarex/plantdisease
 - Late blight does not occur every year in Minnesota. 
 - Late blight of potato was responsible for the Irish potato famine of the late 1840s.
 
-![](https://www.openaccessgovernment.org/wp-content/uploads/2019/12/dreamstime_s_83237974.jpg)
-
-(Source credit :  Open Access Goverment and Paplauski Vital)
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -55,16 +49,6 @@ https://www.kaggle.com/emmarex/plantdisease
 
 -----------------------------------------------------------------------------------------------------------------
 
-- Create an anaconda environment "myenv" with mentioned Python version.
-"conda create -n myenv python=3.7.12".
-
-- Run command "pip install -r requirements.txt"  on your prompt.
-
-- Run "Tomato_Disease_Prediction.ipynb" this file at the end "h5.file" will generate which will be later used by another file "User_Interface.ipynb"
-
-- Now, Run "User_Interface.ipynb",  at the end you will see public url, click on it check the model prediction!
-
------------------------------------------------------------------------------------------------------------------
 
 ### 🖼️ Interference Sample 🖼️
 -----------------------------------------------------------------------------------------------------------------

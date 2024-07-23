@@ -81,13 +81,5 @@ https://www.kaggle.com/emmarex/plantdisease
 
 -----------------------------------------------------------------------------------------------------------------
 
-#### 📸 Images Credits 📸
-- NC State Extension Publications - NC State University
-- Open Access Goverment and Paplauski Vital
-
------------------------------------------------------------------------------------------------------------------
-
-####  ✍️ Acknowledgements ✍️
-- This dataset was gotten from spMohanty's GitHub Repo
 
 -----------------------------------------------------------------------------------------------------------------
